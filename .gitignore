@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+.env
+.env.*
+!.env.example
+application-local.properties
+secrets/
+*.pem
+*.key
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
